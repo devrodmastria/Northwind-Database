@@ -8,6 +8,7 @@ namespace Packt.CS7
         // these properties map to tables in the database 
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Customer> Customers { get; set; }
 
         protected override void OnConfiguring(
           DbContextOptionsBuilder optionsBuilder)
