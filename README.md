@@ -1,2 +1,5 @@
 # Northwind-Database
-<p>My solution is in the <b>LinqWithEFCore</b> folder.</p>
+
+## Northwind Online Store Database
+* Requires Windows machine with local SQL database installed.
+* Main project located in <b>LinqWithEFCore</b> folder.
